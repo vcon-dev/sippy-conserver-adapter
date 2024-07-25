@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "sippy-conserver-adapter"
+version = "0.1.0"
+description = "A vCon adapter for Sippy"
+authors = ["Thomas Spencer McCarthy-Howe <ghostofbasho@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "^0.111.1"
+boto3 = "^1.34.148"
+uvicorn = "^0.30.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
