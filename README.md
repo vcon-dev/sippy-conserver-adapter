@@ -1,5 +1,3 @@
-Certainly! Here's an example of a README for the FastAPI application that checks an S3 bucket every minute and lists new items on the console:
-
 # FastAPI S3 Bucket Monitoring Application
 
 This project demonstrates a FastAPI application that checks an S3 bucket every minute and lists any new items on the console.
