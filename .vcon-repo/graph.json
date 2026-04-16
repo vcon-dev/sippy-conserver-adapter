@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0.0",
+  "repo": "sippy-conserver-adapter",
+  "repo_version": "0.1.0",
+  "archetype": "python-library",
+  "generated_at": "2026-04-16T15:15:45.326240+00:00",
+  "stats": {
+    "node_count": 4,
+    "edge_count": 0
+  },
+  "nodes": [
+    {
+      "id": "function:check_s3_bucket",
+      "type": "function",
+      "name": "check_s3_bucket",
+      "file": "sippy-adapter.py",
+      "line": 18
+    },
+    {
+      "id": "function:check_s3_bucket",
+      "type": "function",
+      "name": "check_s3_bucket",
+      "file": "sippy-adapter.py",
+      "line": 24
+    },
+    {
+      "id": "function:root",
+      "type": "function",
+      "name": "root",
+      "file": "sippy-adapter.py",
+      "line": 45
+    },
+    {
+      "id": "document:readme-md",
+      "type": "document",
+      "name": "README.md",
+      "file": "README.md"
+    }
+  ],
+  "edges": [],
+  "subsystems": []
+}
